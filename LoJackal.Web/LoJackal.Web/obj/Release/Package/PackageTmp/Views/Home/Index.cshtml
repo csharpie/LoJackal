@@ -1,0 +1,51 @@
+﻿@model IEnumerable<LoJackal.Web.Models.Communication>
+
+@{
+    ViewBag.Title = "Last Time Each Computer Communicated";
+}
+
+<br />
+<br />
+
+<h2>Last Time Each Computer Communicated</h2>
+
+<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    <p>
+        Computer Name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ComputerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IPAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastCommunicated)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ComputerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IPAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastCommunicated)
+        </td>
+    </tr>
+}
+
+</table>

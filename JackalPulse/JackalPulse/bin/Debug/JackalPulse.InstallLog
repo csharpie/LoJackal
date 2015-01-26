@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.InstallLog
+   assemblypath = C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe
+Installing service JackalService...
+Service JackalService has been successfully installed.
+Creating EventLog source JackalService in log Application...
+Committing assembly 'C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.InstallLog
+   assemblypath = C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe

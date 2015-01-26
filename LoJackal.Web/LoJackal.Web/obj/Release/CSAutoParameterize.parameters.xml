@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LoJackal-Web.config Connection String" description="LoJackal Connection String used in web.config by the application to access the database." defaultValue="data source=v4q8xxj4fc.database.windows.net;user id=phillymtc;password=!Qwerty1;initial catalog=LoJackal;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sandbox\\CSharp\\Esperaza\ Cyber\ Academy\\LoJackal\.Web\\LoJackal\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LoJackal']/@connectionString" />
+  </parameter>
+</parameters>

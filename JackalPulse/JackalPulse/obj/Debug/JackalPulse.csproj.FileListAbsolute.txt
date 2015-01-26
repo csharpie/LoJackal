@@ -1,0 +1,18 @@
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe.config
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\JackalPulse.pdb
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\JackalPulse.Business.dll
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\System.Net.Http.Formatting.dll
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\Newtonsoft.Json.dll
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\JackalPulse.Business.pdb
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\System.Net.Http.Formatting.xml
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\bin\Debug\Newtonsoft.Json.xml
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.csprojResolveAssemblyReference.cache
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.exe
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.pdb
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.JackalService.resources
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.ProjectInstaller.resources
+\\woofps01\steinbergb$\my documents\visual studio 2013\Projects\JackalPulse\JackalPulse\obj\Debug\JackalPulse.csproj.GenerateResource.Cache
+C:\Sandbox\JackalPulse\JackalPulse\bin\Debug\JackalPulse.exe.config
+C:\Sandbox\JackalPulse\JackalPulse\obj\Debug\JackalPulse.exe
+C:\Sandbox\JackalPulse\JackalPulse\obj\Debug\JackalPulse.pdb
